@@ -42,3 +42,4 @@
 - [vscode-icons](https://marketplace.visualstudio.com/items?itemName=robertohuertasm.vscode-icons)
 - [vscode-styled-components](https://marketplace.visualstudio.com/items?itemName=jpoissonnier.vscode-styled-components)
 - [mongodb.mongodb-vscode](https://marketplace.visualstudio.com/items?itemName=mongodb.mongodb-vscode)
+- [johnpapa.angular-essentials](https://marketplace.visualstudio.com/items?itemName=johnpapa.angular-essentials)
