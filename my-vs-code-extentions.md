@@ -43,3 +43,4 @@
 - [vscode-styled-components](https://marketplace.visualstudio.com/items?itemName=jpoissonnier.vscode-styled-components)
 - [mongodb.mongodb-vscode](https://marketplace.visualstudio.com/items?itemName=mongodb.mongodb-vscode)
 - [johnpapa.angular-essentials](https://marketplace.visualstudio.com/items?itemName=johnpapa.angular-essentials)
+- [Polacode](https://marketplace.visualstudio.com/items?itemName=pnp.polacode&source=korben.info)
